@@ -1,0 +1,3 @@
+- name: fork: Deploy Flutter web app to github pages
+  uses: jeremynac/flutter-gh-pages@beta
+
